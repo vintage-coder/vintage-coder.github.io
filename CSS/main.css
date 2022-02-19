@@ -1,2 +1,14 @@
 @import url("index.css");
-@import url("bootstrap.css");
+
+
+/* ----import from fonts.css file ---- */
+
+@import url("fonts.css");
+
+
+/* import variable.css */
+@import url("_Variable.css");
+
+/* import global.css */
+
+@import url("_global.css");
